@@ -11,7 +11,7 @@ O banco é populado com dados extraídos e transformados por meio dos outros com
 
 - **PostgreSQL** - Sistema gerenciador de banco de dados relacional  
 - **SQL** - Linguagem utilizada para manipulação de dados  
-- **pgAdmin** (opcional) - Interface gráfica para gerenciamento do PostgreSQL  
+- **pgAdmin** - Interface gráfica para gerenciamento do PostgreSQL  
 
 ## ⚙️ Configuração do Banco de Dados  
 
